@@ -4,6 +4,15 @@ Nuzio AI is a personalized audio news platform tailored for modern professionals
 
 With a beautiful, fluid UI powered by Framer Motion and a robust backend integrated with Supabase, Nuzio AI delivers a premium, native-app-like experience right in your browser.
 
+## Screenshots
+
+<div align="center">
+  <img src="./assets/morning_brief.png" width="200" alt="Morning Brief" />
+  <img src="./assets/discover.png" width="200" alt="Discover" />
+  <img src="./assets/settings.png" width="200" alt="Settings" />
+  <img src="./assets/billing.png" width="200" alt="Plan & Billing" />
+</div>
+
 ## Features
 - **Personalized Audio Briefings**: Get daily customized news based on your selected niches (e.g. AI & Tech, Startups, Financial Markets).
 - **Google Authentication**: Seamless secure login and onboarding flow.
